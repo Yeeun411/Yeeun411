@@ -1,7 +1,7 @@
 <div align=center>
  <h2>:sparkles:</h2>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeeun411&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeeun411&layout=compact&theme=cobalt)
 
  <h2>:yum:</h2>
  
