@@ -1,6 +1,5 @@
 <div align="center">
-  <h2>:sparkles:</h2>
-  
+
   <table>
     <tr>
       <td>
