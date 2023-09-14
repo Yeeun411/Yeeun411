@@ -1,10 +1,14 @@
-<div align=center>
- <h2>:sparkles:</h2>
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeeun411&layout=compact&theme=cobalt)
-
- <h2>:yum:</h2>
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeeun411&show_icons=true&theme=cobalt)
-
+<div align="center">
+  <h2>:sparkles:</h2>
+  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeeun411&layout=compact&theme=cobalt" alt="Top Langs">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Yeeun411&show_icons=true&theme=cobalt" alt="Anurag's GitHub stats">
+      </td>
+    </tr>
+  </table>
 </div>
