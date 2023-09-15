@@ -1,6 +1,4 @@
 <div align="center">
-
-  <br><br>
   <table>
     <tr>
       <td>
