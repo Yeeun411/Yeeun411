@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Yeeun411&show_icons=true&theme=cobalt" alt="Anurag's GitHub stats">
+        <![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeeun411&show_icons=true&theme=dracula)>
       </td>
     </tr>
   </table>
